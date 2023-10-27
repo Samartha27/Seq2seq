@@ -1,1 +1,1 @@
-# Seq2seq
+# Langchain / VectorDB / Streamlit
